@@ -6,7 +6,7 @@ namespace dotabrowserapi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("H");
         }
     }
 }
