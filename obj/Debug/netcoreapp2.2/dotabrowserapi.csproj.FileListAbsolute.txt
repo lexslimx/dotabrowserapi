@@ -1,0 +1,11 @@
+C:\Users\Wamwea\Desktop\dotabrowserapi\bin\Debug\netcoreapp2.2\dotabrowserapi.deps.json
+C:\Users\Wamwea\Desktop\dotabrowserapi\bin\Debug\netcoreapp2.2\dotabrowserapi.runtimeconfig.json
+C:\Users\Wamwea\Desktop\dotabrowserapi\bin\Debug\netcoreapp2.2\dotabrowserapi.runtimeconfig.dev.json
+C:\Users\Wamwea\Desktop\dotabrowserapi\bin\Debug\netcoreapp2.2\dotabrowserapi.dll
+C:\Users\Wamwea\Desktop\dotabrowserapi\bin\Debug\netcoreapp2.2\dotabrowserapi.pdb
+C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.csprojAssemblyReference.cache
+C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.csproj.CoreCompileInputs.cache
+C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.AssemblyInfoInputs.cache
+C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.AssemblyInfo.cs
+C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.dll
+C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.pdb
