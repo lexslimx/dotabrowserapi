@@ -9,3 +9,6 @@ C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.As
 C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.AssemblyInfo.cs
 C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.dll
 C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.pdb
+C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.RazorAssemblyInfo.cache
+C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.RazorAssemblyInfo.cs
+C:\Users\Wamwea\Desktop\dotabrowserapi\obj\Debug\netcoreapp2.2\dotabrowserapi.RazorTargetAssemblyInfo.cache
